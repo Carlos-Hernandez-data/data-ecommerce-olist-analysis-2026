@@ -168,7 +168,8 @@ The work reflects an analyst mindset oriented toward:
 ---
 
 ## Contact
-
+```
 Carlos Hernández Godoy  
-Data Analyst | Python · Power BI · SQL · Excel 
+Data Analyst | Python · Power BI · SQL · Excel
 Email: carloshernandez.data@gmail.com
+```
